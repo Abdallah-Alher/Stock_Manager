@@ -324,11 +324,11 @@ body {
 .stats-card {
   background: var(--text-white);
   border-radius: 0.75rem;
-  padding: 3rem;
+  padding: 2rem;
   height: 130px;
   display: flex;
   align-items: center;
-  gap: 2rem;
+  gap: 1rem;
   box-shadow: var(--shadow);
 }
 
@@ -358,7 +358,7 @@ body {
 /* Texte sous le chiffre */
 .stats-card p {
   color: var(--text-secondary);
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   white-space: nowrap;      
 }
 
