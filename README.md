@@ -42,7 +42,7 @@ Le tableau de bord permet à un gestionnaire de :
 ## Prise en main
 
 ### Cloner le dépôt :
-- git clone :
+- git clone : https://github.com/Abdallah-Alher/Stock_Manager.git
 
 ### Ouvrir le projet
 - Ouvre index.html directement dans ton navigateur
@@ -56,7 +56,7 @@ Le tableau de bord permet à un gestionnaire de :
 
 ## Difficultés rencontrées & solutions
 
-1. Gestion de la sidebar responsive sans JavaScript
+1. Gestion de la sidebar responsive 
 - Difficulté à ouvrir/fermer le menu avec un simple clic sur le burger et à fermer en cliquant sur le fond.
 - Solution : utilisation d’un input[type="checkbox"] caché (#nav-toggle), d’un label pour le burger, et d’un second label pleine 
 page pour l’overlay, avec des règles .nav-toggle:checked ~ .sidebar et .nav-toggle:checked ~ .sidebar-overlay.
@@ -75,9 +75,9 @@ page pour l’overlay, avec des règles .nav-toggle:checked ~ .sidebar et .nav-t
 
 ## Liens importants
 
-- Dépôt GitHub : 
+- Dépôt GitHub : https://github.com/Abdallah-Alher/Stock_Manager.git
 
-- Version déployée : 
+- Version déployée : https://abdallah-alher.github.io/Stock_Manager/
 
 ---
 
